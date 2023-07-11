@@ -1,0 +1,100 @@
+Collection -> interface -> 
+
+collection -> topic 
+
+Collections -> class 
+
+data -> store -> operation -> non primitive -> autoboxing 
+
+amazon -> ledtv -> price -> asc ->
+
+					Collection
+
+	List			Set			Queue			|	   Map
+	add()			add()			add()				   put() 
+	ArrayList		HashSet			PriorityQueue			HashMap  
+	Vector 			TreeSet							TreeMap 
+
+
+10
+2
+33
+44
+55
+22
+33
+10
+24
+2
+	list.get(0) 
+	
+order   ->  List 
+unorder ->  Set Queue 
+sorted  ->  TreeSet TreeMap 
+unsorted ->  
+duplicate ->
+unique ->   Set , Map{1:royal} Key->unique   
+
+
+
+
+
+int a[] = new int[5]; // 5 
+
+nonsync ArrayList -> dynamic -> add | grow , remove | shrink
+sync Vector -> 
+
+
+sync StringBuffer vs non sync  StringBuilder
+
+sync
+
+
+
+
+
+
+take n numbers from user and store into list 
+
+now ask x number and search in list , number is present or not 
+if x is present then remove from list, you have to remove all the occurence from list. 
+after removing x , remove all the duplicates from the list. 
+
+list.contains(x)
+list.remove(new Integer(x)); //index
+1,2,3,4,1,2,3,4 
+
+x=4
+1,2,3,1,2,3
+ 
+1,2,3 
+while(list.contains(x)){
+	list.remove(new Integer(x)); //index
+}
+ 
+HashSet<Integer> set = new HashSet<Integer>(list);
+
+
+1) take two position from user and swap both position
+2) 1 2 3 4 1 200 3 -> print all value who refer even num on index 
+   1 3 1.... 
+
+io
+nio
+design pattern 
+thread -concurrent -> ExcecuterService , Executors , FixedThreadPool , ST , CP , SP
+		ForkJoin** -> Lock** ->  
+ 		Future , Callble 
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 
