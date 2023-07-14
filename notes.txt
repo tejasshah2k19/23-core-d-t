@@ -86,6 +86,28 @@ thread -concurrent -> ExcecuterService , Executors , FixedThreadPool , ST , CP ,
 		ForkJoin** -> Lock** ->  
  		Future , Callble 
  
+----------------------------------------------------------------------------------------------
+
+					Map - interface 
+					
+	HashMap{C}					TreeMap{C} 
+
+
+	key:value
+	
+
+
+-------------------------------------------------------
+1	Add contact [name,number]
+2	View Contact ["ram",not present] 
+3   TotalContact 
+4   ListAllContact
+-------------------------------------------------------
+
+
+
+
+
 
 
 
